@@ -29,10 +29,12 @@ p {
 
 .gray {
   color: gray;
-  font-weight: normal;
 }
 
 .right {
   text-align: right;
-  font-weight: normal;
+}
+
+.thin {
+  font-weight: thin;
 }
